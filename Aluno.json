@@ -1,0 +1,12 @@
+{
+  "Aluno": {
+    "nome": "Maria",
+    "idade": 16,
+    "notas": 8.0,
+    "aprovado": true,
+    "Matérias": ["Biologia; Química; Geografia"], 
+    "Telefone": null
+  }
+}
+
+

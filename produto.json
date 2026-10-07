@@ -1,0 +1,8 @@
+{
+  "Produto": {
+    "nome": "Caderno",
+    "preço": 25.90,
+    "quantidade": 10,
+    "disponível": true
+  }
+}
